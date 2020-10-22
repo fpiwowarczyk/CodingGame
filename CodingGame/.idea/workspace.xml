@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61117929-b1e4-4c3c-8f73-ee1ae4513b91" name="Default Changelist" comment="" />
+    <list default="true" id="61117929-b1e4-4c3c-8f73-ee1ae4513b91" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Minesweeper/Player.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +80,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2614" y="354" width="588" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603310030027">
